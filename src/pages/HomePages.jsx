@@ -3,7 +3,7 @@ import React from "react";
 export default function HomePages(){
     return (
         <>
-        <h1>muncul</h1>
+        <h1>Pedagang Valuta Asing Terpercaya</h1>
         </>
     )
 }
